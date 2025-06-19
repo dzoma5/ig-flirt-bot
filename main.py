@@ -2,8 +2,7 @@ import requests
 import random
 
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1"
-HEADERS = {"Authorization": "Bearer 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"}
-
+HEADERS = {"Authorization": "Bearer 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"}
 PROMPTI = [
     "Napiši duhovit, samouveren i flert komentar za Instagram meme o lošim dejtovima.",
     "Napiši komentar koji je smešan i koketan, kao da se zezaš s osobom koja je objavila meme.",
